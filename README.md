@@ -65,3 +65,4 @@ The dataset was provided as a CSV file containing historical M1 OHLCV data. The 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/your_project.git
+<img width="317" alt="Confusion matrix" src="https://github.com/user-attachments/assets/039a8b42-609c-4b7e-aea8-787939f3a5cc" />
